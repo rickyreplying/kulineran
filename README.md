@@ -1,4 +1,3 @@
-# belajar-vue-kulineran
 ## Online Food Store Project to Learn Vue JS with API
 
 ## Project setup
